@@ -18,6 +18,7 @@ Use useEffect to fetch quiz questions from a mock API.
 Use useContext to manage a global setting for the quiz difficulty level, which might affect the questions fetched or the scoring.
 Key Areas to Focus On:
 
+
 Understanding Component Scope: Clearly differentiate between state that belongs to a single component and state that needs to be shared globally.
 Context Design: Practice creating well-defined contexts with appropriate default values and provider structures.
 Hook Integration: Seamlessly integrate useState, useEffect, and useContext within functional components.
