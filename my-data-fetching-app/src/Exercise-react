@@ -4,10 +4,10 @@ Practice Exercises to Reinforce Learning:
 To prepare thoroughly, consider working through the following practice exercises:
 
 To-Do List Application:
-
 Use useState to manage the list of to-do items and the input field for new items.
 Use useEffect to potentially save the to-do list to local storage (as a side effect) when it changes.
 Use useContext to manage a global filter state (e.g., "All", "Active", "Completed") that affects which to-do items are displayed.
+
 Simple E-commerce Cart:
 Use useState for managing the quantity of items in a specific product card.
 Use useContext to manage the global shopping cart state (list of items, total price).
