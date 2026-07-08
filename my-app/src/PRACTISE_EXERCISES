@@ -1,0 +1,5 @@
+Practice Exercises:
+Create a `ProductCard` component: This component should accept props like name, price, and imageUrl. Render it multiple times in App.js with different product data.
+Build a simple `ToggleSwitch` component: This component should have a button that toggles its state between "On" and "Off". Use useState and handle the click event.
+Enhance the `TaskListContainer`: Add functionality to delete tasks. You'll need to add a delete button to TaskItem and pass a delete handler function down from TaskListContainer.
+Implement a basic search filter for the task list: Add an input field to TaskListContainer that allows users to filter tasks by text. You'll need to manage the search query state and conditionally render the tasks based on the filter.
