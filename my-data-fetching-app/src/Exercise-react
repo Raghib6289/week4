@@ -13,6 +13,7 @@ Use useState for managing the quantity of items in a specific product card.
 Use useContext to manage the global shopping cart state (list of items, total price).
 Use useEffect to potentially fetch product data or update the cart total when items are added/removed.
 Implement conditional rendering based on whether a user is logged in (using a mock authentication context).
+
 Quiz Application:
 Use useState for managing the current question, user's answer, and score.
 Use useEffect to fetch quiz questions from a mock API.
