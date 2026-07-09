@@ -16,9 +16,8 @@
 
 // export default App;
 
+
 // src/App.js
-
-
 // import React from 'react';
 // import Greeting from './components/Greeting'; // Import the Greeting component
 // import './App.css'; // Assuming you have some basic styling
