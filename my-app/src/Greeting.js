@@ -1,4 +1,4 @@
-// src/components/Greeting.js
+// src/Greeting.js
 
 import React from 'react'; // Import React (necessary for JSX)
 
