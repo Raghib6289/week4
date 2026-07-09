@@ -12,3 +12,4 @@ function Greeting(props) {
 }
 
 export default Greeting; // Export the component so it can be used elsewhere
+
