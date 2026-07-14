@@ -11,6 +11,7 @@
 //     setCount(count + 1); // Update the state
 //   };
 
+
 // returning the value
 //   return (
 //     <div style={{ border: '1px solid #eee', margin: '10px', padding: '15px', borderRadius: '8px', textAlign: 'center' }}>
