@@ -18,6 +18,7 @@ export function SettingsProvider({ children }) {
   );
 }
 
+
 // Custom hook to consume the context
 export function useSettings() {
   const context = useContext(SettingsContext);
