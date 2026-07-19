@@ -10,6 +10,7 @@ export function SettingsProvider({ children }) {
   const updateSettings = (newSettings) => {
     setSettings(prevSettings => ({ ...prevSettings, ...newSettings }));
   };
+  
 
   return (
     <SettingsContext.Provider value={{ settings, updateSettings }}>
