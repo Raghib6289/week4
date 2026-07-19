@@ -12,6 +12,7 @@ export function SettingsProvider({ children }) {
   };
   
 
+  
   return (
     <SettingsContext.Provider value={{ settings, updateSettings }}>
       {children}
